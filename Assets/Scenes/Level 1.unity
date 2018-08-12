@@ -609,6 +609,44 @@ Prefab:
       propertyPath: yRange
       value: 3.5
       objectReference: {fileID: 0}
+    - target: {fileID: 1382279336657446, guid: 72be39f157e0a3349818d6de40bdcf4a, type: 2}
+      propertyPath: m_Name
+      value: Bullets Right
+      objectReference: {fileID: 0}
+    - target: {fileID: 1124083973797882, guid: 72be39f157e0a3349818d6de40bdcf4a, type: 2}
+      propertyPath: m_Name
+      value: Bullets Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 198834652044547196, guid: 72be39f157e0a3349818d6de40bdcf4a,
+        type: 2}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198522261939599594, guid: 72be39f157e0a3349818d6de40bdcf4a,
+        type: 2}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198834652044547196, guid: 72be39f157e0a3349818d6de40bdcf4a,
+        type: 2}
+      propertyPath: CollisionModule.type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198522261939599594, guid: 72be39f157e0a3349818d6de40bdcf4a,
+        type: 2}
+      propertyPath: CollisionModule.type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198834652044547196, guid: 72be39f157e0a3349818d6de40bdcf4a,
+        type: 2}
+      propertyPath: CollisionModule.collisionMessages
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198522261939599594, guid: 72be39f157e0a3349818d6de40bdcf4a,
+        type: 2}
+      propertyPath: CollisionModule.collisionMessages
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72be39f157e0a3349818d6de40bdcf4a, type: 2}
   m_IsPrefabParent: 0
